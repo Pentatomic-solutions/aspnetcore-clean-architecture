@@ -71,5 +71,5 @@ dotnet run --project src/Presentation/Pentatomic.Api
 
 Need dedicated ASP.NET Core engineering teams or enterprise legacy .NET Framework modernization?
 - **Pillar Guide**: [ASP.NET Core Development Services](https://pentatomicsolutions.in/services/dotnet-development-services/)
-- **Technical Inquiries**: contact@pentatomicsolutions.in
+- **Technical Inquiries**: reachus@pentatomicsolutions.in
 - **Direct WhatsApp**: [+91 93168 17687](https://wa.me/919316817687)
